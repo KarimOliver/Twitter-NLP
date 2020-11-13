@@ -23,4 +23,4 @@ The final model had an accuracy score of 86
 CONCLUSION
 
 I would recommend a much larger data set with a much smaller class imbalance. But from what we can gather, it seems
-relatively
+that a well built model can absolutely predict the emotion of a tweet, and that an investment in a machine learning  model that could monitor how consumers are engaging with a product on Twitter would be a worthy investment.  
